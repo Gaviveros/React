@@ -1,4 +1,4 @@
-import logo from '../img/abstrArt.png'
+import logo from '../../img/abstrArt.png'
 import './NavBar.css'
 
 function NavBar(props) {

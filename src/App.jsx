@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import './App.css'
-import Cards from './components/cards'
-import CartWidget from './components/CartWidget'
-import Container from './components/Container'
-import NavBar from './components/NavBar'
+import Cards from './components/cards/Cards'
+import CartWidget from './components/cartWidget/CartWidget'
+import Container from './components/container/Container'
+import NavBar from './components/navBar/NavBar'
 
 
 function App() {
